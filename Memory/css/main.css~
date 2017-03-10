@@ -1,0 +1,60 @@
+@font-face {
+  font-family: "AtomicSushi";
+  src: url("../fonts/AtomicSushi.ttf");
+}
+@font-face {
+  font-family: "go3v2";
+  src: url("../fonts/go3v2.ttf");
+}
+
+body{
+	background: url('../img/fondo.jpg') center fixed;
+}
+
+h1{
+	margin-top: 3%;
+	color: #FFFFFF;
+}
+
+label
+{
+	font-family: "go3v2";
+	font-size: 25px;
+}
+
+.well
+{
+	font-family: "go3v2";
+	font-size: 15px;	
+}
+
+.header{
+	font-family: "go3v2";
+	font-size: 45px;
+}
+.formulario{
+	margin-top: 10%;
+}
+
+/*Ancho que va a ocupar el container*/
+.borde{
+    width: 80%;
+}
+
+/*color para probar tamaños etc*/
+.juego{
+	border: solid 2px #009090;
+	height: 500px;
+}
+.datos{
+	height: 500px;
+}
+/*Tamaño prueba cartas acertadas*/
+.acertada{
+	height: 300px;
+}
+
+.juego > .row > div > div > img
+{
+	visibility: hidden;
+}

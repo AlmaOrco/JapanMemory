@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Memory</title>
+	<meta charset="utf-8">
+	<meta author="Andrea Heredia, Alicia Orellana, Pedro Pantoja, Héctor Ruiz">
+	<script type="text/javascript" src="./js/jquery-3.1.1.js"></script>
+    <script type="text/javascript" src="./js/bootstrap.min.js"></script>
+    <!--script type="text/javascript" src="./js/npm.js"></script-->
+    <script src="./js/cookie-plugin/jquery.cookie.js"></script>
+    <script type="text/javascript" src="./js/dinamizar.js"></script>
+    <link rel="stylesheet" href="./css/bootstrap.css">
+    <link rel="stylesheet" href="./css/main.css">
+	
+</head>
+<body>
+<div class="container">
+    <div class="row">
+        <div class="col-md-12">
+            <div class="well well-sm formulario">
+                <form class="form-horizontal" method="post">
+                    <fieldset>
+                        <legend class="text-center header">Memory</legend>
+                        <div class="form-group">
+                            <div class="col-md-12">
+                            <!--Input para insertar el nombre-->
+                                <input name="name" type="text" placeholder="Nombre" class="form-control" id="inputName">
+                            </div>
+                        </div>
+
+                        <div class="form-group">
+                        <legend class="text-center header">Dificultad</legend>
+                            <div class="row col-md-12 col-md-offset-2">
+                                <div class="radio col-md-3">
+                                <!--Input de dificultad-->
+                                    <input type="radio" id="dif" value='1' name="dif" checked=""><label>Bajo</label>
+                                </div>
+                                <div class="radio col-md-3">
+                                    <input type="radio" id="dif" value='2' name="dif"><label>Medio</label>
+                                </div>
+                                <div class="radio col-md-3">
+                                    <input type="radio" id="dif" value='3' name="dif"><label>Avanzado</label>                                
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="form-group">
+                            <div class="col-md-12 text-center">
+                                <!--Boton para acceder al juego-->
+                                <button class="btn btn-danger" id="inicio">Comenzar</button>
+                            </div>
+                        </div>
+                    </fieldset>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+</body>
+</html>
