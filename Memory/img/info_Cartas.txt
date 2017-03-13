@@ -1,0 +1,28 @@
+brook --> One Piece	-->	El músico de los Piratas de Sombrero de Paja. Es un esqueleto viviente que encontraron en un barco fantasma solo.
+chopper --> One Piece --> El médico de los Piratas de Sombrero de Paja. El único miembro de toda la tripulación que nació en Grand Line. 
+luffy --> One Piece --> Es el protagonista principal de One Piece. Comió una fruta del diablo, que le convirtió en un hombre de goma.
+nami --> One Piece --> Es una pirata y la navegante de los Piratas del Sombrero de Paja, fue criada en Villa Cocoyasi, en el East Blue. 
+zoro --> One Piece --> Fue un famoso cazarrecompensas y actualmente es el espadachín de los Piratas del Sombrero de Paja.
+
+doraemon --> Doraemon --> Es el gato cósmico protagonista. Es un robot con apariencia de mapache que viene del siglo XXII.
+dorami --> Doraemon --> Es la hermana menor de Doraemon. Tiene las mismas habilidades que su hermano mayor, incluyendo el bolsillo mágico.
+Gigante --> Doraemon --> Es el más bruto del barrio y el peor enemigo de Nobita. Él y Suneo siempre están molestando a Nobita.
+nobita --> Doraemon --> Es el protagonista de la serie Doraemon. Se caracteriza por ser un personaje con dificultades en el colegio.
+shizuka --> Doraemon --> Es uno de los personajes principales. Es la única protagonista femenina, Nobita esta enamorado de ella.
+suneo --> Doraemon --> Es el mejor amigo de Gigante. Juntos, molestan siempre a Nobita. 
+
+eevee --> Pokemon --> Pokémon de tipo normal de la primera generación. Se caracteriza por ser el Pokémon con más opciones evolutivas.
+gyarados --> pokemon --> Pokémon de tipo agua/volador introducido en la primera generación. Es la evolución de Magikarp.
+hitmonchan --> pokemon --> Pokémon de tipo lucha introducido en la primera generación, y es una de las tres formas evolucionadas de Tyrogue.
+Hitmonlee --> pokemon --> Pokémon de tipo lucha introducido en la primera generación, y es una de las tres formas evolucionadas de Tyrogue.
+Mewtwo --> pokemon --> Pokémon legendario y artificial tipo psíquico de la primera generación. Fue creado a partir del ADN de Mew.
+snorlax --> pokemon --> Pokémon de tipo normal de la primera generación. A partir de la cuarta generación tiene una preevolución llamada Munchlax.
+squirtle --> pokemon --> Pokémon de tipo agua de la primera generación. Es uno de los Pokémon iniciales que pueden elegir los entrenadores.
+sudowoodo --> pokemon --> Pokémon de tipo roca de la segunda generación. A partir de la cuarta generación posee una pre-evolución, Bonsly.
+
+krilin --> Dragon Ball --> Es el primer rival en artes marciales de Son Gokū aunque luego se convierte en su mejor amigo.
+goku --> Dragon Ball --> Es el protagonista principal de Dragon Ball. Fue enviado a la Tierra como un bebé con la misión de conquistarla. 
+
+naruto --> naruto --> Es el protagonista de la serie del manga y anime Naruto, es un genio en combate con un gran talento ninja muy superior.
+sakura --> naruto --> Es uno de los personajes principales de la serie. Es una kunoichi de nivel Jōnin, miembro del Equipo Kakashi.
+sasuke --> naruto -->  Él es uno de los pocos supervivientes del Clan Uchiha, hermano menor de Itachi Uchiha.

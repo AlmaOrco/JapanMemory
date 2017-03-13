@@ -1,0 +1,7 @@
+Desarrollo de la vista cliente:
+
+- El desarrollo de la vista cliente ha sido desarrollado por Andrea Heredia y por Héctor Ruiz. Empleando para ello: Bootstrap y Jquery como elementos centrales de la aplicación.
+- Las vistas, son dos: Index.html, donde se seleccionará dificultad y nombre del usuario, y panel.html, donde se realizará la mayor parte del juego.
+	- En index, dependeremos de cookies, para almacenar los valores de dificultad y nombre del usuario. Puesto que estos datos serán cargados o empleados en la vista posterior.
+	- En la vista panel.html, empleamos tanto controladores de tiempo, como peticiones json como envío de datos propios de formularios para las inserciones de puntuaciones del jugador y de nombre del mismo, con el objetivo de almacenar los datos.
+	

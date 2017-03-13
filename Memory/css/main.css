@@ -1,0 +1,110 @@
+@font-face {
+  font-family: "AtomicSushi";
+  src: url("../fonts/AtomicSushi.ttf");
+}
+@font-face {
+  font-family: "go3v2";
+  src: url("../fonts/go3v2.ttf");
+}
+
+body{
+	background: url('../img/fondo.jpg') center fixed;
+}
+
+h1{
+	margin-top: 3%;
+	color: #FFFFFF;
+}
+
+h1 a {
+	color: #FFFFFF;
+}
+
+h1 a:hover {
+	color: #FFFFFF;
+	text-decoration: none;
+}
+
+label
+{
+	font-family: "go3v2";
+	font-size: 25px;
+}
+
+.well
+{
+	font-family: "go3v2";
+	font-size: 15px;	
+}
+
+.header legend{
+	font-family: "go3v2";
+	font-size: 45px;
+	color: #d9534f;
+}
+
+h1.header, h2.header {
+	font-family: "go3v2";
+	font-size: 45px;
+	color: #FFFFFF;
+}
+
+.formulario{
+	margin-top: 10%;
+}
+
+/*Ancho que va a ocupar el container*/
+.borde{
+    width: 80%;
+}
+
+/*color para probar tamaños etc*/
+.juego{
+	padding: 0px;
+}
+.datos{
+	height: 500px;
+}
+/*Tamaño prueba cartas acertadas*/
+.acertada{
+	height: 200px;
+}
+
+img
+{
+	width: 60%;
+	height: 60%;
+	border-radius: 10px;
+	margin-top: 15px;
+	padding: 0;
+	/*Sombra de la imagen*/
+
+	-webkit-box-shadow: 10px 10px 17px -3px rgba(0,0,0,1);
+	-moz-box-shadow: 10px 10px 17px -3px rgba(0,0,0,1);
+	box-shadow: 10px 10px 17px -3px rgba(0,0,0,1);
+}
+
+.miniatura
+{
+	height: 25px;
+	width: 25px;
+	margin-left: 2px;
+}
+
+.table {
+	background-color: #ffffff;
+	font-family: "go3v2";
+}
+
+th, td {
+	text-align:center;
+	border-bottom: solid 1px #FC756B;
+}
+
+th {
+	font-size: x-large;
+}
+
+#fin {
+	font-family: "go3v2";
+}
